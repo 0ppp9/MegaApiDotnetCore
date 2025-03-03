@@ -144,6 +144,9 @@ src
 │   ├── 📂 Repositories     [Repository pattern]
 ```
 
+## Nota
+
+Foi acompanhada a aula, mas depois o chatGPT limitou o uso.
 ## License This software is licensed under the terms of the [MIT]
 
 ⌨️ FelipeAguiar -
